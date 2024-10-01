@@ -1,0 +1,8 @@
+.hours{
+    display: flex;
+}
+
+.pontinho{
+    color: red;
+    font-size: 40px;
+}

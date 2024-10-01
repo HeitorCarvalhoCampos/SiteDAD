@@ -1,0 +1,17 @@
+.prices{
+    display: flex;
+    gap: 10px;
+}
+
+.new_price{
+    color: red;
+}
+
+.old_price{
+    color: gray
+}
+
+.comments{
+    display: flex;
+    gap: 10px;
+}
